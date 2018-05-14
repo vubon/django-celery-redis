@@ -1,7 +1,17 @@
 #Django Celery Redis 
 This is a basic example scheduler tasks of Django , Celery with Redis 
 
+## You need to install Celery and Redis in your virtual environments 
+```bash
+pip install celery 
+```
+and 
+```bash
+pip install redis 
+``` 
+
 ## Redis is a broker server 
+Also you need to install Redis in your machine 
 More details about redis [Redis](https://redis.io/)
 
 ### Insert bellow settings in your settings.py 
