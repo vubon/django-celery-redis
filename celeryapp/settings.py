@@ -84,8 +84,8 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'celery_test',
-        'USER': 'postgres',
+        'NAME': 'db_name',
+        'USER': 'username',
         #'PASSWORD': 'mypassword',
         'HOST': 'localhost',
         'PORT': '5432',
