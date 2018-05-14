@@ -1,4 +1,4 @@
-#Django Celery Redis 
+# Django Celery Redis 
 This is a basic example scheduler tasks of Django , Celery with Redis 
 
 ## You need to install Celery and Redis in your virtual environments 
